@@ -119,7 +119,7 @@ Add support for half-day leaves and different leave types.
 Deploy on cloud hosting with CI/CD pipelines.
 
 Contact
-For questions, contact [Your Name] at [your.email@example.com]
+For questions, contact Shivam Shashank at shivamshashank961@gmail.com
 
 This project was developed as a mini leave management system assignment to demonstrate full-stack development and system design skills.
 
