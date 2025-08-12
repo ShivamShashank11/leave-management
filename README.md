@@ -119,7 +119,7 @@ Add support for half-day leaves and different leave types.
 Deploy on cloud hosting with CI/CD pipelines.
 
 Contact
-For questions, contact [Your Name] at [your.email@example.com]
+For questions, contact Shivam Shashank at shivamshashank961@gmail.com
 
 This project was developed as a mini leave management system assignment to demonstrate full-stack development and system design skills.
 
@@ -152,5 +152,4 @@ This dashboard is for admins, where they can view, approve, or reject leave requ
 ### 5. Employee Dashboard After Approval (Screenshot 5.png)
 ![Employee Dashboard After Approval](./IMG/Screenshot%205.png)
 Once a leave request is approved by the admin, the updated status is reflected on the employee’s dashboard.
-
 ```
