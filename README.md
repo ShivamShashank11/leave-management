@@ -152,4 +152,5 @@ This dashboard is for admins, where they can view, approve, or reject leave requ
 ### 5. Employee Dashboard After Approval (Screenshot 5.png)
 ![Employee Dashboard After Approval](./IMG/Screenshot%205.png)
 Once a leave request is approved by the admin, the updated status is reflected on the employee’s dashboard.
+
 ```
