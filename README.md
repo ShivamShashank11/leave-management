@@ -125,38 +125,36 @@ This project was developed as a mini leave management system assignment to demon
 
 ## Screenshots & Explanation
 
-### 1. Register Page (screenshot 2.png)
+### 1. Register Page (Screenshot 2.png)
 
-![Register Page](./IMG/screenshot%202.png)
+![Register Page](./IMG/Screenshot%202.png)
 This page allows users to register. Both employees and admins can sign up by providing their details here.
 
 ---
 
-### 2. Login Page (screenshot 1.png)
+### 2. Login Page (Screenshot 1.png)
 
-![Login Page](./IMG/screenshot%201.png)
+![Login Page](./IMG/Screenshot%201.png)
 Users can log in using their credentials on this page.
 
 ---
 
-### 3. Employee Dashboard (screenshot 3.png)
+### 3. Employee Dashboard (Screenshot 3.png)
 
-![Employee Dashboard](./IMG/screenshot%203.png)
+![Employee Dashboard](./IMG/Screenshot%203.png)
 This dashboard shows employees their leave applications and their current statuses, as shown in the image.
 
 ---
 
-### 4. Admin Dashboard (screenshot 4.png)
+### 4. Admin Dashboard (Screenshot 4.png)
 
-![Admin Dashboard](./IMG/screenshot%204.png)
+![Admin Dashboard](./IMG/Screenshot%204.png)
 This dashboard is for admins, where they can view, approve, or reject leave requests.
 
 ---
 
-### 5. Employee Dashboard After Approval (screenshot 5.png)
+### 5. Employee Dashboard After Approval (Screenshot 5.png)
 
-![Employee Dashboard After Approval](./IMG/screenshot%205.png)
+![Employee Dashboard After Approval](./IMG/Screenshot%205.png)
 Once a leave request is approved by the admin, the updated status is reflected on the employee’s dashboard.
-
-
 ```
