@@ -142,7 +142,7 @@ Users can log in using their credentials on this page.
 ### 3. Employee Dashboard (screenshot 3.png)
 
 ![Employee Dashboard](./IMG/screenshot%203.png)
-This dashboard shows employees their leave applications and their current statuses, as seen in the image.
+This dashboard shows employees their leave applications and their current statuses, as shown in the image.
 
 ---
 
@@ -156,7 +156,7 @@ This dashboard is for admins, where they can view, approve, or reject leave requ
 ### 5. Employee Dashboard After Approval (screenshot 5.png)
 
 ![Employee Dashboard After Approval](./IMG/screenshot%205.png)
-Once a leave request is approved by the admin, the updated status is shown on the employee’s dashboard.
+Once a leave request is approved by the admin, the updated status is reflected on the employee’s dashboard.
 
 
 ```
