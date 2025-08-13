@@ -7,16 +7,16 @@ const connectDB = require('./config/db');
 const app = express();
 
 
-app.use(cors({
-  origin: process.env.CLIENT_URL || '*', 
+const corsOptions = {
+  origin: process.env.CLIENT_URL || '*',
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true
-}));
+};
+app.use(cors(corsOptions));
 
 
 app.use(express.json());
 app.use(morgan('dev'));
-
 
 connectDB()
   .then(() => console.log(' Database connected'))
@@ -29,14 +29,12 @@ connectDB()
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/leaves', require('./routes/leaveRoutes'));
 
-
 app.get('/', (req, res) => res.json({ message: 'Leave Management API running 🚀' }));
 
 
 app.use((req, res) => {
   res.status(404).json({ success: false, message: 'Route not found' });
 });
-
 
 app.use((err, req, res, next) => {
   console.error(' Server Error:', err.stack || err);
